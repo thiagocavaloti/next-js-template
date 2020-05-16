@@ -1,0 +1,25 @@
+html, body {
+  margin: 0 auto;
+  padding: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+body {
+  background: url('/images/chapada.jpg') no-repeat center center fixed;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+::-webkit-input-placeholder, 
+:-ms-input-placeholder,
+::placeholder {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 10px;
+}
+#__next-prerender-indicator {
+    display: none;
+  }
+
