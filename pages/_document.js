@@ -10,7 +10,6 @@ export default class MyDocument extends Document {
         <Head>
           <meta name="theme-color" content={theme.palette.primary.main} />
           <meta name="robots" content="noindex, nofollow"></meta>
-          {/* <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet" /> */}
         </Head>
         <body>
           <Main />
